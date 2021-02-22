@@ -6,3 +6,6 @@ data/**
 
 # SQL Lite db
 conposcovidloc.db
+
+# is it really this stupid??
+.ipynb_checkpoints/conposcovidloc-checkpoint.ipynb
