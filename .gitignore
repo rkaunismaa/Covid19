@@ -4,3 +4,5 @@
 # Data folder
 data/**
 
+# SQL Lite db
+conposcovidloc.db
