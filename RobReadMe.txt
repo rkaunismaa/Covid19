@@ -1,3 +1,15 @@
+////////////////////////////////////////////
+Monday, February 22, 2021
+
+Government of Ontario Github 
+https://github.com/ongov
+
+Pulled down the data found here ... 
+https://data.ontario.ca/dataset/covid-19-cases-in-hospital-and-icu-by-ontario-health-region
+... into 'region_hospital_icu_covid_data-2021-02-22.csv'
+
+
+/////////////////////////////////////////////
 Thursday, Feburary 18, 2021
 
 https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario
