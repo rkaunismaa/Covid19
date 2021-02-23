@@ -1,4 +1,14 @@
 ////////////////////////////////////////////
+Tuesday, February 23, 2021
+
+Downloaded (again!) the data from ...
+https://www150.statcan.gc.ca/n1/pub/13-26-0003/132600032020001-eng.htm
+
+This dataset is NOT changing! It still has 666,237 records. BUT ... it has stuff in it I have not found elsewhere. 
+So today, I am going to work on creating reports from this dataset.
+
+
+////////////////////////////////////////////
 Monday, February 22, 2021
 
 Government of Ontario Github 
@@ -7,6 +17,10 @@ https://github.com/ongov
 Pulled down the data found here ... 
 https://data.ontario.ca/dataset/covid-19-cases-in-hospital-and-icu-by-ontario-health-region
 ... into 'region_hospital_icu_covid_data-2021-02-22.csv'
+
+
+Durham Region Flue Tracker
+https://app.powerbi.com/view?r=eyJrIjoiNjA4MWVkMzgtYzZmNy00MDQ0LWFkMzMtMTM5MzUzZTVhYzFhIiwidCI6IjUyZDdjOWMyLWQ1NDktNDFiNi05YjFmLTlkYTE5OGRjM2YxNiJ9
 
 
 /////////////////////////////////////////////
