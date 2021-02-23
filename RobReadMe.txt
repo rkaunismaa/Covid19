@@ -1,4 +1,14 @@
 ////////////////////////////////////////////
+Tuesday, February 23, 2021
+
+Downloaded (again!) the data from ...
+https://www150.statcan.gc.ca/n1/pub/13-26-0003/132600032020001-eng.htm
+
+This dataset is NOT changing! It still has 666,237 records. BUT ... it has stuff in it I have not found elsewhere. 
+So today, I am going to work on creating reports from this dataset.
+
+
+////////////////////////////////////////////
 Monday, February 22, 2021
 
 Government of Ontario Github 
