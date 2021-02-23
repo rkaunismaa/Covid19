@@ -9,6 +9,10 @@ https://data.ontario.ca/dataset/covid-19-cases-in-hospital-and-icu-by-ontario-he
 ... into 'region_hospital_icu_covid_data-2021-02-22.csv'
 
 
+Durham Region Flue Tracker
+https://app.powerbi.com/view?r=eyJrIjoiNjA4MWVkMzgtYzZmNy00MDQ0LWFkMzMtMTM5MzUzZTVhYzFhIiwidCI6IjUyZDdjOWMyLWQ1NDktNDFiNi05YjFmLTlkYTE5OGRjM2YxNiJ9
+
+
 /////////////////////////////////////////////
 Thursday, Feburary 18, 2021
 
