@@ -1,4 +1,15 @@
 ////////////////////////////////////////////
+Thursday, March 4, 2021
+
+Downloaded (again!) the data from ...
+https://www150.statcan.gc.ca/n1/pub/13-26-0003/132600032020001-eng.htm
+... into COVID19-eng-2021-03-04.zip
+
+Nice! This 'latest' dataset now contains 839,927 records! ... So it HAS been updated! So yeah, gonna
+run stuff against this latest dataset.
+
+
+////////////////////////////////////////////
 Tuesday, February 23, 2021
 
 Downloaded (again!) the data from ...
