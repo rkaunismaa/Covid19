@@ -1,13 +1,3 @@
-# Jupyter Notebook
-.ipynb_checkpoints/*.ipynb
-
-# Data folder
 data/**
-
-# SQL Lite db
-conposcovidloc.db
-
-# is it really this stupid??
-.ipynb_checkpoints/conposcovidloc-checkpoint.ipynb
-
 .ipynb_checkpoints
+*.db
