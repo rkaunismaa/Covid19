@@ -1,4 +1,23 @@
 ////////////////////////////////////////////
+Sunday, March 7, 2021
+
+Downloaded data for York Region from ...
+https://www.york.ca/wps/portal/yorkhome/health/yr/covid-19/covid19inyorkregion
+
+... there is a 'Download Data' link about 2/3 of the way down the page ... 
+
+It downloads as 
+YR_CaseData.csv
+
+I downloaded this into 
+/home/rob/Data/Documents/Github/rkaunismaa/Covid19
+as 
+YR_CaseData-2021-03-07.csv
+
+I will work on a YR_CaseData.ipynb notebook to analyse this data.
+
+
+////////////////////////////////////////////
 Thursday, March 4, 2021
 
 Downloaded (again!) the data from ...
